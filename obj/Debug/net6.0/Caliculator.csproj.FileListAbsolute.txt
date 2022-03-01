@@ -1,0 +1,17 @@
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.AssemblyInfoInputs.cache
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.AssemblyInfo.cs
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.csproj.CoreCompileInputs.cache
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\Caliculator.exe
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\Caliculator.deps.json
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\Caliculator.runtimeconfig.json
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\Caliculator.dll
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\ref\Caliculator.dll
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\Caliculator.pdb
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\CalcClassLibrary.dll
+C:\Users\bysanpra\source\repos\Caliculator\bin\Debug\net6.0\CalcClassLibrary.pdb
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.csproj.CopyComplete
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.dll
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\ref\Caliculator.dll
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.pdb
+C:\Users\bysanpra\source\repos\Caliculator\obj\Debug\net6.0\Caliculator.genruntimeconfig.cache
